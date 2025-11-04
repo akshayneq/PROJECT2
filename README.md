@@ -1,7 +1,6 @@
 # RealityResume — Complete Project Package (Full-Stack)
 
-This repository is a **ready-to-upload** full-stack project implementing the RealityResume MVP with:
-- Frontend: Next.js + TailwindCSS (polished UI)
+- Frontend: Next.js + TailwindCSS
 - Backend: Express.js API with OpenAI summarizer hooks
 - Database: MongoDB (schemas + sample seed script)
 - Demo: seeded demo user and sample events
